@@ -1,0 +1,5 @@
+haslo1
+haslo2
+haslo3
+root
+admin
